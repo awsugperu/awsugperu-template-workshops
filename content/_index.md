@@ -13,7 +13,7 @@ Para mayor contenido, síguenos en :
 
 ![Amazon Macie](/img/All-services.jpg)
 
-En este workshop, conoceremos ......
+En este workshop, conoceremos estos servicios......
 
 {{% children description="true" %}}
 
