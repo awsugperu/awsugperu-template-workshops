@@ -47,9 +47,9 @@ url = "showcase"
 weight = 11
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Bitacora Cloud"
-identifier = "gerardokaztro"
-url = "https://gerardo.kaztro.cloud/"
+name = "<i class='fas fa-fw fa-bookmark'></i> Imperio Cloud Podcast"
+identifier = "imperiocloud"
+url = "https://imperiocloud.com"
 weight = 20
 
 [[Languages.en.menu.shortcuts]]

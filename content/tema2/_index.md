@@ -1,5 +1,6 @@
 ---
-title: "Amazon Macie Workshop"
+---
+title: "Tema 2"
 chapter: true
 weight: 1
 ---
@@ -11,7 +12,7 @@ Para mayor contenido, síguenos en :
 
 <div style="text-align: center"><h2>Amazon Macie Workshop</h2></div>
 
-![Amazon Macie](/img/Amazon-Macie.jpg)
+![Tema2](/img/Amazon-Macie.jpg)
 
 En este workshop, conoceremos Amazon Macie, como activarlo, como poder usarlo, y algunas recomendaciones que van ayudarte en su uso.
 

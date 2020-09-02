@@ -11,7 +11,7 @@ Para mayor contenido, síguenos en :
 
 <div style="text-align: center"><h2>[service_here] Workshop</h2></div>
 
-![Amazon Macie](/img/All-services.jpg)
+![Amazon Periodic Table](/img/All-services.jpg)
 
 En este workshop, conoceremos estos servicios......
 
