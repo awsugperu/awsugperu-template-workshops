@@ -1,5 +1,5 @@
 ---
-title: "Amazon Macie Workshop"
+title: "AWS UG Peru Workshops [template]"
 chapter: true
 weight: 0
 ---
@@ -9,11 +9,11 @@ Para mayor contenido, síguenos en :
 [AWS User Group Perú](https://www.facebook.com/awsperu) 
 {{% /notice %}}
 
-<div style="text-align: center"><h2>Amazon Macie Workshop</h2></div>
+<div style="text-align: center"><h2>[service_here] Workshop</h2></div>
 
-![Amazon Macie](/img/Amazon-Macie.jpg)
+![Amazon Macie](/img/All-services.jpg)
 
-En este workshop, conoceremos Amazon Macie, como activarlo, como poder usarlo, y algunas recomendaciones que van ayudarte en su uso.
+En este workshop, conoceremos ......
 
 {{% children description="true" %}}
 
