@@ -1,4 +1,4 @@
-baseURL = "http://workshops.github.io/"
+baseURL = "https://awsugperu-template-workshops.aws.pe/"
 languageCode = "en-us"
 title = "Workhops by AWS UG Perú"
 theme = "learn"
@@ -11,15 +11,15 @@ relativeURLs = true
 hrefTargetBlank = true
 
 [params]
-  editURL = "https://github.com/awsugperu/workshops/content/"
+  editURL = "https://github.com/awsugperu/awsugperu-template-workshops/content/"
   description = "Workhops by AWS UG Perú"
   author = "Gerardo Castro"
   showVisitedLinks = false
   disableBreadcrumb = true
   disableNextPrev = false
   themeVariant = "mine"
-  ghrepo = "https://github.com/awsugperu/workshops/"
-  branch = "main"
+  ghrepo = "https://github.com/awsugperu/awsugperu-template-workshops"
+  branch = "master"
   pygmentsUseClasses = true
   pygmentsCodeFences = true
   pygmentsCodefencesGuessSyntax = true
