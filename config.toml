@@ -13,7 +13,7 @@ hrefTargetBlank = true
 [params]
   editURL = "https://github.com/awsugperu/awsugperu-template-workshops/content/"
   description = "Workhops by AWS UG Perú"
-  author = "Gerardo Castro"
+  author = "awsugperu team"
   showVisitedLinks = false
   disableBreadcrumb = true
   disableNextPrev = false

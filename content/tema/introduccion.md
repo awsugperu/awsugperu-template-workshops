@@ -1,6 +1,6 @@
 ---
-title: "Introduccion"
-weight: 100
+title: "Introduccion tema 1"
+weight: 200
 chapter: true
 url: /introduccion
 pre: "<b>1. </b>"
@@ -10,6 +10,5 @@ draft: false
 {{< youtube I-ewoQekdXE >}}
 Un recorrido por los conceptos básicos de Amazon Macie.
 
-![Overview Macie](../img/overview_macie.png)
-
+![Overview Macie](/introduccion/overview_macie.png)
 ---

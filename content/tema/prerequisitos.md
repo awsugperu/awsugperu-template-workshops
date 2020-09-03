@@ -1,6 +1,6 @@
 ---
-title: Installation
-weight: 110
+title: Prerequisitos
+weight: 210
 chapter: true
 url: /prerequisitos
 pre: "<b>2. </b>"
